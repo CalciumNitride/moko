@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "moko-rescue")(type "KiCad")(uri "${KIPRJMOD}/moko-rescue.kicad_sym")(options "")(descr ""))
+)
