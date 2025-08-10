@@ -121,6 +121,14 @@
 	(net 41 "unconnected-(U1-SCL-Pad6)_1")
 	(net 42 "unconnected-(U1-D4-Pad7)_1")
 	(net 43 "unconnected-(U1-RAW-Pad24)")
+	(net 44 "unconnected-(U1-SCL-Pad6)")
+	(net 45 "unconnected-(U1-RAW-Pad24)_1")
+	(net 46 "unconnected-(U1-SDA-Pad5)_1")
+	(net 47 "unconnected-(U1-F6-Pad18)_1")
+	(net 48 "unconnected-(U1-F5-Pad19)_1")
+	(net 49 "unconnected-(U1-F4-Pad20)_1")
+	(net 50 "unconnected-(U1-C6-Pad8)_1")
+	(net 51 "unconnected-(U1-D4-Pad7)")
 	(footprint "0-moko_Library:CherryMX_Choc_Hotswap"
 		(layer "F.Cu")
 		(uuid "05deea4a-66ee-437d-880b-b2f315347d39")
@@ -644,7 +652,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "23049c07-90c5-4fd5-9f90-273f4fc36833")
+			(uuid "cf8e7b87-adac-4a58-a8d9-eb7782a123ae")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -653,7 +661,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "23049c07-90c5-4fd5-9f90-273f4fc36833")
+			(uuid "3856d049-5a66-4f0c-92f8-24f7bbb8533d")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -662,7 +670,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "23049c07-90c5-4fd5-9f90-273f4fc36833")
+			(uuid "2b793b8a-872b-48b9-8d77-767e2752fcb0")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -680,7 +688,7 @@
 			(net 16 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e0831e40-e729-479b-a1fd-c56a59c76ea1")
+			(uuid "81709df2-6ffe-4db9-a797-0386c7c4b860")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -689,7 +697,7 @@
 			(net 16 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e0831e40-e729-479b-a1fd-c56a59c76ea1")
+			(uuid "b6536a4c-ce7d-45dd-b03f-009313707fdf")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -698,7 +706,7 @@
 			(net 16 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e0831e40-e729-479b-a1fd-c56a59c76ea1")
+			(uuid "a32c4e26-4ea2-4383-a2a8-f0da0f3be502")
 		)
 		(embedded_fonts no)
 	)
@@ -1225,7 +1233,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "bc05bdb1-ad84-476c-9fb2-fb152483a92f")
+			(uuid "1c536d1e-0d17-463c-b900-fc8115d7972d")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -1234,7 +1242,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "bc05bdb1-ad84-476c-9fb2-fb152483a92f")
+			(uuid "a6065bb8-e180-49e0-ba02-9faf89fb5a20")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -1243,7 +1251,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "bc05bdb1-ad84-476c-9fb2-fb152483a92f")
+			(uuid "4962b530-31c4-4627-80a9-3a13bfbd4cf1")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -1261,7 +1269,7 @@
 			(net 14 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1146f194-ca41-4e23-a328-b9ef22f4aa9b")
+			(uuid "e9a3bd1d-6a39-435a-ac01-f65499f25f81")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -1270,7 +1278,7 @@
 			(net 14 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1146f194-ca41-4e23-a328-b9ef22f4aa9b")
+			(uuid "6cf888ae-6382-4172-90dd-e112e4614b7a")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -1279,7 +1287,7 @@
 			(net 14 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1146f194-ca41-4e23-a328-b9ef22f4aa9b")
+			(uuid "c7fe7dc2-2ff6-4123-a78f-ef9e036d0476")
 		)
 		(embedded_fonts no)
 	)
@@ -1488,7 +1496,7 @@
 			(remove_unused_layers no)
 			(net 23 "LED")
 			(pintype "passive")
-			(uuid "a3859949-b119-4b25-b626-635e959628fe")
+			(uuid "088a8de1-ec1b-4148-97ea-ee7d9c1975e5")
 		)
 		(pad "R2" thru_hole oval
 			(at -3.85 3.3)
@@ -1508,7 +1516,7 @@
 			(remove_unused_layers no)
 			(net 37 "data")
 			(pintype "passive")
-			(uuid "33326814-9b4e-4155-91c7-5b187609fa99")
+			(uuid "9780cd57-0ca6-4ee8-a0d6-3d1475b0221a")
 		)
 		(pad "S" thru_hole oval
 			(at -2.1 11.8)
@@ -1530,7 +1538,7 @@
 			(net 27 "GND")
 			(pintype "passive")
 			(clearance 0.15)
-			(uuid "44d3d07a-635a-43b6-9632-fe12ce181534")
+			(uuid "8bacafbf-0d3b-4e11-80cf-f0e99cfbe3df")
 		)
 		(pad "T" thru_hole oval
 			(at -3.85 10.3)
@@ -1552,7 +1560,7 @@
 			(net 26 "VCC")
 			(pintype "passive")
 			(clearance 0.15)
-			(uuid "628dca43-c729-4b9d-af43-8ca5bc4be1bf")
+			(uuid "dd563409-2be5-4873-b67d-b465202b1e17")
 		)
 		(embedded_fonts no)
 		(model "../../../../../../Users/pluis/Documents/Magic Briefcase/Documents/KiCad/3d/AB2_TRS_3p5MM_PTH.wrl"
@@ -1827,7 +1835,7 @@
 			(net 6 "row1")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "8617eb0f-cde4-433b-922f-f06023a32e59")
+			(uuid "400f4609-3ce8-41b1-9c41-8ebcbe255ee2")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -1845,7 +1853,7 @@
 			(net 9 "Net-(D7-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "d17cd6fa-dc2b-4712-ab2e-8cbaca239c18")
+			(uuid "8a318a2b-76fa-401d-80d5-ea6cdf4ba03d")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -2120,7 +2128,7 @@
 			(net 2 "row0")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "346891be-af2a-485e-8279-b09f6b8ab2d7")
+			(uuid "91110f20-37d0-4d0e-a960-93bec47c4c79")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -2138,7 +2146,7 @@
 			(net 5 "Net-(D4-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "9448f746-d336-4ed5-a1e6-77e3bf3e7f8b")
+			(uuid "5f3ea961-57f6-4fd3-8ca9-480c3f9c74f0")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -2413,7 +2421,7 @@
 			(net 20 "row3*")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "7fb54377-a645-43d5-8ba4-48af2068a49d")
+			(uuid "6714e08e-772f-4233-ad10-900b8ecba190")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -2431,7 +2439,7 @@
 			(net 21 "Net-(D16-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "20696d6d-87a3-4e67-b360-afb90a07464c")
+			(uuid "1f389862-ed5f-4844-baa6-d676db19f439")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -2969,7 +2977,7 @@
 			(net 30 "col3*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "094eb416-3c52-4a57-933e-5108584be323")
+			(uuid "2e3d1fc4-f5d4-40e0-9e43-21a5622c1f0c")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -2978,7 +2986,7 @@
 			(net 30 "col3*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "094eb416-3c52-4a57-933e-5108584be323")
+			(uuid "d36440f6-541b-4604-bb72-0305952851a4")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -2987,7 +2995,7 @@
 			(net 30 "col3*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "094eb416-3c52-4a57-933e-5108584be323")
+			(uuid "5e313124-c515-4d72-83ef-49f38a95ab12")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -3005,7 +3013,7 @@
 			(net 21 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ab1fdddb-70a6-40dc-97cd-97e7d1dcc54f")
+			(uuid "e12fa549-cc86-4769-8b8e-761f0d0bae38")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -3014,7 +3022,7 @@
 			(net 21 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ab1fdddb-70a6-40dc-97cd-97e7d1dcc54f")
+			(uuid "fa38f3fe-ee2e-487d-89a7-8db6b49494e0")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -3023,7 +3031,7 @@
 			(net 21 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ab1fdddb-70a6-40dc-97cd-97e7d1dcc54f")
+			(uuid "8774e2b6-9657-4ca5-a5c2-d0f070025f28")
 		)
 		(embedded_fonts no)
 	)
@@ -3287,7 +3295,7 @@
 			(net 12 "row2")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "828b589f-89b2-498f-b3b5-f91ffefd4d71")
+			(uuid "5806384c-d9b6-4ebc-aeb9-289993ab4091")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -3305,7 +3313,7 @@
 			(net 14 "Net-(D11-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "00f1ae90-9eb3-4a7f-8abb-1c8023fa2cd6")
+			(uuid "fb695de3-3c0c-40ef-b85a-9048d54ecae9")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -4555,7 +4563,7 @@
 			(net 23 "LED")
 			(pinfunction "TX")
 			(pintype "bidirectional")
-			(uuid "2d333904-ef95-41d9-9d4a-6adcbbffdfd5")
+			(uuid "5d00bf74-45ad-4b8b-ad48-ff9ed1e259be")
 		)
 		(pad "2" thru_hole circle
 			(at -8.89 -10.668)
@@ -4577,7 +4585,7 @@
 			(net 37 "data")
 			(pinfunction "RX")
 			(pintype "bidirectional")
-			(uuid "efa3323e-a21a-4146-96a6-d4811be9cc79")
+			(uuid "c7832843-c0f9-4b9b-8151-fad3a90ba214")
 		)
 		(pad "3" thru_hole circle
 			(at -8.89 -8.128)
@@ -4599,7 +4607,7 @@
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "d078b8c4-8e99-489c-9802-8abbc1de649e")
+			(uuid "7db0cce3-41b5-4051-be7f-ea8bcd8c98d2")
 		)
 		(pad "4" thru_hole circle
 			(at -8.89 -5.588)
@@ -4621,7 +4629,7 @@
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "b1932732-fcad-47f7-aa4f-77af37bc3137")
+			(uuid "106a6b20-dd80-4d63-bce9-6b9f78d01e47")
 		)
 		(pad "5" thru_hole circle
 			(at -8.89 -3.048)
@@ -4640,10 +4648,10 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 35 "unconnected-(U1-SDA-Pad5)")
+			(net 46 "unconnected-(U1-SDA-Pad5)_1")
 			(pinfunction "SDA")
 			(pintype "bidirectional+no_connect")
-			(uuid "18fb83fa-675e-437f-a9ef-7812ca88ba1e")
+			(uuid "3b1d5aed-bb1a-4ef5-ad06-f9516dca2b53")
 		)
 		(pad "6" thru_hole circle
 			(at -8.89 -0.508)
@@ -4662,10 +4670,10 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 41 "unconnected-(U1-SCL-Pad6)_1")
+			(net 44 "unconnected-(U1-SCL-Pad6)")
 			(pinfunction "SCL")
 			(pintype "bidirectional+no_connect")
-			(uuid "9bb48a4f-9c13-41d6-9825-cb2de5dd811b")
+			(uuid "04095f17-c674-4889-95f9-06aceebe9bc6")
 		)
 		(pad "7" thru_hole circle
 			(at -8.89 2.032)
@@ -4684,10 +4692,10 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 42 "unconnected-(U1-D4-Pad7)_1")
+			(net 51 "unconnected-(U1-D4-Pad7)")
 			(pinfunction "D4")
 			(pintype "bidirectional+no_connect")
-			(uuid "da2ba252-f17d-4197-9bbc-0cd4890f9e93")
+			(uuid "c99df0e6-f86f-49a0-b08e-e72235ce1058")
 		)
 		(pad "8" thru_hole circle
 			(at -8.89 4.572)
@@ -4706,10 +4714,10 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 38 "unconnected-(U1-C6-Pad8)")
+			(net 50 "unconnected-(U1-C6-Pad8)_1")
 			(pinfunction "C6")
 			(pintype "bidirectional+no_connect")
-			(uuid "068a94b4-ac7e-4f83-b199-fca5ffae31bc")
+			(uuid "98292b67-3b6b-4868-b0c2-7e75c24d17d0")
 		)
 		(pad "9" thru_hole circle
 			(at -8.89 7.112)
@@ -4731,7 +4739,7 @@
 			(net 18 "row3")
 			(pinfunction "D7")
 			(pintype "bidirectional")
-			(uuid "46bb10f7-7047-4a15-b3db-52f077db5319")
+			(uuid "272bce94-98a6-4ef3-bf87-0b89252800a6")
 		)
 		(pad "10" thru_hole circle
 			(at -8.89 9.652)
@@ -4753,7 +4761,7 @@
 			(net 12 "row2")
 			(pinfunction "E6")
 			(pintype "bidirectional")
-			(uuid "18e797d7-da64-413c-9557-82b0c08850cd")
+			(uuid "619db69c-9dff-454f-a721-b1702da32c9d")
 		)
 		(pad "11" thru_hole circle
 			(at -8.89 12.192)
@@ -4775,7 +4783,7 @@
 			(net 6 "row1")
 			(pinfunction "B4")
 			(pintype "bidirectional")
-			(uuid "0b86d525-6417-4874-bf0f-36033545c8bc")
+			(uuid "f3939dfc-1928-48bd-89ec-8fd2dfe5dcd1")
 		)
 		(pad "12" thru_hole circle
 			(at -8.89 14.732)
@@ -4797,7 +4805,7 @@
 			(net 2 "row0")
 			(pinfunction "B5")
 			(pintype "bidirectional")
-			(uuid "849f45a0-c8cf-49d4-bd66-383bc12d5bf6")
+			(uuid "40d3be92-e2a2-45e0-b58c-a94946b5b70f")
 		)
 		(pad "13" thru_hole circle
 			(at -7.5636 13.462)
@@ -4819,7 +4827,7 @@
 			(net 34 "col0")
 			(pinfunction "B6")
 			(pintype "bidirectional")
-			(uuid "ce217a1d-ffef-4a2e-a935-55fc7c6e90d9")
+			(uuid "8a4f7019-425e-497e-a607-3b63fee5c739")
 		)
 		(pad "14" thru_hole circle
 			(at -7.5636 10.922)
@@ -4841,7 +4849,7 @@
 			(net 32 "col1")
 			(pinfunction "B2")
 			(pintype "bidirectional")
-			(uuid "d7bd6b2d-6fd4-469e-8f25-1018b3a56fb2")
+			(uuid "8e18091c-3140-4735-9b3f-280575d98f99")
 		)
 		(pad "15" thru_hole circle
 			(at -7.5636 8.382)
@@ -4863,7 +4871,7 @@
 			(net 33 "col2")
 			(pinfunction "B3")
 			(pintype "bidirectional")
-			(uuid "8e25fd34-23e0-45b5-8945-b5b24ca75360")
+			(uuid "fcb080dd-9249-4336-baa4-22ff580a55f2")
 		)
 		(pad "16" thru_hole circle
 			(at -7.5636 5.842)
@@ -4885,7 +4893,7 @@
 			(net 24 "col3")
 			(pinfunction "B1")
 			(pintype "bidirectional")
-			(uuid "c59d2b28-6ccf-4064-9795-01226e62b907")
+			(uuid "e44d8a2c-8885-4ef9-bef1-26568aa00a9e")
 		)
 		(pad "17" thru_hole circle
 			(at -7.5636 3.302)
@@ -4907,7 +4915,7 @@
 			(net 25 "col4")
 			(pinfunction "F7")
 			(pintype "bidirectional")
-			(uuid "fb705dae-6b98-4ec1-af7b-c7f0e3bc2546")
+			(uuid "5ac7d94e-1500-4b9d-8102-8c82a063f504")
 		)
 		(pad "18" thru_hole circle
 			(at -7.5636 0.762)
@@ -4915,7 +4923,7 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 40 "unconnected-(U1-F6-Pad18)")
+			(net 47 "unconnected-(U1-F6-Pad18)_1")
 			(pinfunction "F6")
 			(pintype "bidirectional+no_connect")
 			(uuid "6b9d6b84-cbf4-4636-a835-1f02a651ef61")
@@ -4929,7 +4937,7 @@
 			(net 40 "unconnected-(U1-F6-Pad18)")
 			(pinfunction "F6")
 			(pintype "bidirectional+no_connect")
-			(uuid "6b9d6b84-cbf4-4636-a835-1f02a651ef61")
+			(uuid "22a6593a-602d-429b-8f07-2f90fbb466ae")
 		)
 		(pad "19" thru_hole circle
 			(at -7.5636 -1.778)
@@ -4948,10 +4956,10 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 36 "unconnected-(U1-F5-Pad19)")
+			(net 48 "unconnected-(U1-F5-Pad19)_1")
 			(pinfunction "F5")
 			(pintype "bidirectional+no_connect")
-			(uuid "0194247a-88fd-4844-bd98-12ad78964d69")
+			(uuid "7ea05e76-a8c4-4957-99d1-9cbfc40ef1db")
 		)
 		(pad "20" thru_hole circle
 			(at -7.5636 -4.318)
@@ -4959,7 +4967,7 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 39 "unconnected-(U1-F4-Pad20)")
+			(net 49 "unconnected-(U1-F4-Pad20)_1")
 			(pinfunction "F4")
 			(pintype "bidirectional+no_connect")
 			(uuid "87c2bc72-08df-4230-9b8d-a2b7dfa0d48b")
@@ -4973,7 +4981,7 @@
 			(net 39 "unconnected-(U1-F4-Pad20)")
 			(pinfunction "F4")
 			(pintype "bidirectional+no_connect")
-			(uuid "87c2bc72-08df-4230-9b8d-a2b7dfa0d48b")
+			(uuid "72a44a43-1f68-40ff-ba22-cd1f61b72146")
 		)
 		(pad "21" thru_hole circle
 			(at -7.5636 -6.858)
@@ -4995,7 +5003,7 @@
 			(net 26 "VCC")
 			(pinfunction "VCC")
 			(pintype "power_in")
-			(uuid "d2ee3782-5498-47bc-953b-30aad28cda3c")
+			(uuid "51b4f55c-3318-41dd-bd6a-40ce8df7ac20")
 		)
 		(pad "22" thru_hole circle
 			(at -7.5636 -9.398)
@@ -5017,7 +5025,7 @@
 			(net 31 "reset")
 			(pinfunction "RST")
 			(pintype "input")
-			(uuid "7b0ea934-88f1-47a9-9c93-687e221a4dce")
+			(uuid "c5059a53-f49a-4858-a521-09cdffdde34a")
 		)
 		(pad "23" thru_hole circle
 			(at -7.5636 -11.938)
@@ -5039,7 +5047,7 @@
 			(net 27 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "fa946ac3-566f-4859-b18c-bda20dfefa30")
+			(uuid "11cafc52-3188-43b6-a4ab-38f312483e65")
 		)
 		(pad "24" thru_hole circle
 			(at -7.5636 -14.478)
@@ -5047,7 +5055,7 @@
 			(drill 0.8128)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 43 "unconnected-(U1-RAW-Pad24)")
+			(net 45 "unconnected-(U1-RAW-Pad24)_1")
 			(pinfunction "RAW")
 			(pintype "power_out+no_connect")
 			(uuid "21bdd63a-f448-4117-a0e1-e65904e2183c")
@@ -5061,7 +5069,7 @@
 			(net 43 "unconnected-(U1-RAW-Pad24)")
 			(pinfunction "RAW")
 			(pintype "power_out+no_connect")
-			(uuid "21bdd63a-f448-4117-a0e1-e65904e2183c")
+			(uuid "19624fd8-d754-473a-9bf6-319694c6bf5d")
 		)
 		(embedded_fonts no)
 	)
@@ -5325,7 +5333,7 @@
 			(net 6 "row1")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "c8a6af19-2b99-4563-8b41-4e73f02f54b5")
+			(uuid "536b6cfd-1bb7-48c5-a2a7-14afbf237290")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -5343,7 +5351,7 @@
 			(net 10 "Net-(D8-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "73ffdf00-65a9-4103-85e4-3b3d30f49bc5")
+			(uuid "bb1b7a99-783f-4449-beb1-a4702249097a")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -5881,7 +5889,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6ef0e86-cfff-4582-bbe2-d6079c5582c1")
+			(uuid "bf891d13-eff2-442d-bcc4-75f95c029c43")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -5890,7 +5898,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6ef0e86-cfff-4582-bbe2-d6079c5582c1")
+			(uuid "3eb99db0-a64b-4bef-86ef-98db411e45e8")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -5899,7 +5907,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6ef0e86-cfff-4582-bbe2-d6079c5582c1")
+			(uuid "2c88bd97-40b0-4d20-9998-990bd3299fb7")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -5917,7 +5925,7 @@
 			(net 4 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e120346b-cca5-4e91-81b9-60330519f827")
+			(uuid "7983f9c3-0131-4171-9823-5c6bcad84500")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -5926,7 +5934,7 @@
 			(net 4 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e120346b-cca5-4e91-81b9-60330519f827")
+			(uuid "ded9ab23-7b68-45b8-ac16-16e46357dfba")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -5935,7 +5943,7 @@
 			(net 4 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e120346b-cca5-4e91-81b9-60330519f827")
+			(uuid "c2f7849f-33e9-4d32-a931-becf461f7282")
 		)
 		(embedded_fonts no)
 	)
@@ -6462,7 +6470,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9681f61d-ee4e-41a8-ae84-858b1c62d562")
+			(uuid "ef357105-c313-4b76-b84d-9e457bfd2373")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -6471,7 +6479,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9681f61d-ee4e-41a8-ae84-858b1c62d562")
+			(uuid "c49377a8-3fc4-4963-8351-f02cbdb5f9bc")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -6480,7 +6488,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9681f61d-ee4e-41a8-ae84-858b1c62d562")
+			(uuid "6b9472db-3871-43e5-bf73-0a34f796f6df")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -6498,7 +6506,7 @@
 			(net 8 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ba8a03d2-f0de-438e-984e-1d8d9e81e598")
+			(uuid "ea9e38b7-1a39-445e-96a1-24e089fa0f02")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -6507,7 +6515,7 @@
 			(net 8 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ba8a03d2-f0de-438e-984e-1d8d9e81e598")
+			(uuid "eb68b920-f980-4604-8d20-514f8e2d1600")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -6516,7 +6524,7 @@
 			(net 8 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ba8a03d2-f0de-438e-984e-1d8d9e81e598")
+			(uuid "649e9a33-eef4-4ff2-8d38-f99530f2be6b")
 		)
 		(embedded_fonts no)
 	)
@@ -6780,7 +6788,7 @@
 			(net 2 "row0")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "2d1b60f5-8b0d-4a7f-b9dd-8a6e0e2c1556")
+			(uuid "be1253ab-edff-438d-9951-f2755a0e2bf1")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -6798,7 +6806,7 @@
 			(net 4 "Net-(D3-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "314b870e-44fd-4f77-b5e7-a517f9fe9c9e")
+			(uuid "1af8c490-3c59-4c82-92af-211bc6e20727")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -7336,7 +7344,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "06a688c3-c54c-46ff-bc14-b7575b26af77")
+			(uuid "8e051b57-963b-44dc-97cf-1973963440cc")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -7345,7 +7353,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "06a688c3-c54c-46ff-bc14-b7575b26af77")
+			(uuid "84f996ae-16e7-42ce-a5a5-e40d034042d9")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -7354,7 +7362,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "06a688c3-c54c-46ff-bc14-b7575b26af77")
+			(uuid "677388f1-eb9b-4b1c-bdc5-b74396cd2521")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -7372,7 +7380,7 @@
 			(net 19 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4bedd248-a876-4c27-9344-dff53a1ea395")
+			(uuid "22224666-f144-4193-ae1c-7fd20794014a")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -7381,7 +7389,7 @@
 			(net 19 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4bedd248-a876-4c27-9344-dff53a1ea395")
+			(uuid "5ad4e0c3-682a-4273-8c4a-80dc0b666329")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -7390,7 +7398,7 @@
 			(net 19 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4bedd248-a876-4c27-9344-dff53a1ea395")
+			(uuid "74ba3ec5-0003-4655-82f2-bf0a78fd4f91")
 		)
 		(embedded_fonts no)
 	)
@@ -7917,7 +7925,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d7aeac83-890d-4015-9b9c-a0530d411dce")
+			(uuid "c909d489-0d2b-4e54-a6f5-953f9f52f301")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -7926,7 +7934,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d7aeac83-890d-4015-9b9c-a0530d411dce")
+			(uuid "564d9a45-98b8-4180-aba0-ba4a94cfd67e")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -7935,7 +7943,7 @@
 			(net 32 "col1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d7aeac83-890d-4015-9b9c-a0530d411dce")
+			(uuid "fbc7e336-fefc-4a63-a238-2c24d7f2995a")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -7953,7 +7961,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2bb76d46-1034-4f2d-b535-e2a5297717c9")
+			(uuid "5016d26d-08f1-44d6-b6ef-ea2ccf8f68b1")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -7962,7 +7970,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2bb76d46-1034-4f2d-b535-e2a5297717c9")
+			(uuid "e6c7a42f-c79c-47e6-bdae-9af54502f543")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -7971,7 +7979,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2bb76d46-1034-4f2d-b535-e2a5297717c9")
+			(uuid "9d0b02b2-0885-45b2-aee1-07c2653d9b3f")
 		)
 		(embedded_fonts no)
 	)
@@ -8235,7 +8243,7 @@
 			(net 2 "row0")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "382d1813-5f2e-4615-8d11-205f164409b6")
+			(uuid "626e1458-f026-4e08-980d-fd2cff3b825f")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -8253,7 +8261,7 @@
 			(net 1 "Net-(D1-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "1b85aa8d-6346-473c-8a1c-8f0ee7e45a16")
+			(uuid "dd43031b-2a79-45be-9dc7-579140df4955")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -8791,7 +8799,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a3019465-b75a-49a9-bb87-491a4f0648e6")
+			(uuid "566f2a4c-8a00-47cd-962c-3ef8601345f4")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -8800,7 +8808,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a3019465-b75a-49a9-bb87-491a4f0648e6")
+			(uuid "a4f31332-2f43-446d-bfba-c6c836f619ba")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -8809,7 +8817,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a3019465-b75a-49a9-bb87-491a4f0648e6")
+			(uuid "52e5d712-1661-4f3f-9924-50613e9fe100")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -8827,7 +8835,7 @@
 			(net 17 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5d128c10-3df6-4f07-9b1d-723e7e8d1a10")
+			(uuid "e4ceace4-4369-416a-9e2f-087f5cb57889")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -8836,7 +8844,7 @@
 			(net 17 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5d128c10-3df6-4f07-9b1d-723e7e8d1a10")
+			(uuid "904aa4d9-4453-4cd2-832b-b6f5e1c36859")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -8845,7 +8853,7 @@
 			(net 17 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5d128c10-3df6-4f07-9b1d-723e7e8d1a10")
+			(uuid "8fe34140-1044-4bce-8dab-fbc42fe24bc1")
 		)
 		(embedded_fonts no)
 	)
@@ -9109,7 +9117,7 @@
 			(net 12 "row2")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "3c1314d1-b951-4b07-a5a4-5aa34ed90c9f")
+			(uuid "92bbdcf6-2fc3-42f1-9084-3af576ec60b7")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -9127,7 +9135,7 @@
 			(net 13 "Net-(D10-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "00950df0-8aa6-4e11-a8a8-c894f83d7753")
+			(uuid "6e464e05-2930-4cb5-8846-a1a544ccd880")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -9665,7 +9673,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a26ca9d9-6b4d-4317-a564-79001c547351")
+			(uuid "f8e2f268-e518-4d6e-b3de-e367de11f6a0")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -9674,7 +9682,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a26ca9d9-6b4d-4317-a564-79001c547351")
+			(uuid "39f05ae4-39cc-4959-b9dd-eacf1546e144")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -9683,7 +9691,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a26ca9d9-6b4d-4317-a564-79001c547351")
+			(uuid "3ac7fd8e-2fc9-4a2e-b5b6-db22459c1fc4")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -9701,7 +9709,7 @@
 			(net 5 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "644cab5e-a405-4167-843f-288eb401e897")
+			(uuid "8596265c-55d8-4d14-bb77-ba8f00a8dee8")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -9710,7 +9718,7 @@
 			(net 5 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "644cab5e-a405-4167-843f-288eb401e897")
+			(uuid "292b03ec-07f7-49c4-866e-5b41aba6e04b")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -9719,7 +9727,7 @@
 			(net 5 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "644cab5e-a405-4167-843f-288eb401e897")
+			(uuid "dc7d17c6-a5f7-4866-97c1-48ad59a650cf")
 		)
 		(embedded_fonts no)
 	)
@@ -10246,7 +10254,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6be026b-3cdc-4180-955c-50233511d959")
+			(uuid "614dfbe3-6b6b-457c-9e2e-b9b9ffdfc907")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -10255,7 +10263,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6be026b-3cdc-4180-955c-50233511d959")
+			(uuid "5768a6e3-fa96-44aa-a07a-b45863e39d0c")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -10264,7 +10272,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c6be026b-3cdc-4180-955c-50233511d959")
+			(uuid "b29cc6bb-47f8-4829-86b0-d5347145bff1")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -10282,7 +10290,7 @@
 			(net 13 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "834620cd-0305-4618-9688-281bee756090")
+			(uuid "81f87b29-6a34-4e55-8f9a-ae9614f765a2")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -10291,7 +10299,7 @@
 			(net 13 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "834620cd-0305-4618-9688-281bee756090")
+			(uuid "8df61c41-c55e-4265-8e44-37701a246ed8")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -10300,7 +10308,7 @@
 			(net 13 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "834620cd-0305-4618-9688-281bee756090")
+			(uuid "94231b67-c6ce-46b4-b38a-7ff21766bfc4")
 		)
 		(embedded_fonts no)
 	)
@@ -10827,7 +10835,7 @@
 			(net 28 "col4*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a224d5a7-644a-4715-a908-373aa236dc92")
+			(uuid "099ff003-eb2d-43f5-9cbb-d745bdeb02f5")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -10836,7 +10844,7 @@
 			(net 28 "col4*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a224d5a7-644a-4715-a908-373aa236dc92")
+			(uuid "e6511d5e-47f3-4360-89b0-a069ed719a14")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -10845,7 +10853,7 @@
 			(net 28 "col4*")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a224d5a7-644a-4715-a908-373aa236dc92")
+			(uuid "876fdf9b-abbf-4fdd-b419-17f65d891744")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -10863,7 +10871,7 @@
 			(net 22 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ad4d3033-a6c1-41bb-8405-8757a009680b")
+			(uuid "d62bd772-63f2-4561-b101-8b200c6b9f60")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -10872,7 +10880,7 @@
 			(net 22 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ad4d3033-a6c1-41bb-8405-8757a009680b")
+			(uuid "6d2ae9d2-79aa-4143-9b56-7c95e05eaa9d")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -10881,7 +10889,7 @@
 			(net 22 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ad4d3033-a6c1-41bb-8405-8757a009680b")
+			(uuid "45064218-e4ac-4604-95e8-8a2ebee55375")
 		)
 		(embedded_fonts no)
 	)
@@ -11145,7 +11153,7 @@
 			(net 6 "row1")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "4c449a69-11bc-4e49-993e-ca7b91452ad3")
+			(uuid "f7bf31a3-8f14-485b-ae4f-4572a986080c")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -11163,7 +11171,7 @@
 			(net 7 "Net-(D5-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "7ca001ad-897d-4039-bc0e-657de7c5b5b1")
+			(uuid "2238cac8-9449-467c-9cb1-b485a7a47187")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -11701,7 +11709,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "552cacab-9b92-444f-93d5-db07e96acbee")
+			(uuid "46200c3e-e0c3-41b5-9883-58b878fc34da")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -11710,7 +11718,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "552cacab-9b92-444f-93d5-db07e96acbee")
+			(uuid "2dbfca0d-0fec-41af-8a06-5ea266faa7ba")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -11719,7 +11727,7 @@
 			(net 34 "col0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "552cacab-9b92-444f-93d5-db07e96acbee")
+			(uuid "88cfc887-5983-40e1-88e4-451556574a20")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -11737,7 +11745,7 @@
 			(net 7 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2524d02d-b808-41ec-b67d-92f141c2c8fc")
+			(uuid "12a997c0-7037-4178-9b38-92468206ba36")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -11746,7 +11754,7 @@
 			(net 7 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2524d02d-b808-41ec-b67d-92f141c2c8fc")
+			(uuid "919b1483-69e3-467e-b716-064e54ab425a")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -11755,7 +11763,7 @@
 			(net 7 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2524d02d-b808-41ec-b67d-92f141c2c8fc")
+			(uuid "40e37e9d-04f7-494c-b527-50fe9075ce9f")
 		)
 		(embedded_fonts no)
 	)
@@ -12148,7 +12156,7 @@
 			(net 12 "row2")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "02eda880-1272-4e9c-b7f0-8eea882d27b5")
+			(uuid "85a5c72f-c8c6-4b9d-a9df-756270b8042b")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -12166,7 +12174,7 @@
 			(net 15 "Net-(D12-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "0465ce18-2cd2-4f9d-a7fe-96750d05e6f3")
+			(uuid "0362b281-155f-45c0-8a33-7727d79f97f8")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -12704,7 +12712,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b364ac41-6274-47ee-993e-793b3a809f00")
+			(uuid "6d30137c-a8f0-4c6d-9fe6-643f0b04c7b7")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -12713,7 +12721,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b364ac41-6274-47ee-993e-793b3a809f00")
+			(uuid "b95bdda2-130c-4729-8d63-b44e4733d4ad")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -12722,7 +12730,7 @@
 			(net 25 "col4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b364ac41-6274-47ee-993e-793b3a809f00")
+			(uuid "c69693d4-a85c-49b3-849e-dd0c3deb96d9")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -12740,7 +12748,7 @@
 			(net 11 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dc489bbf-b480-4fde-9f3c-00a818d8623a")
+			(uuid "4debc4be-5c12-467f-9ba1-470a4a375f18")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -12749,7 +12757,7 @@
 			(net 11 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dc489bbf-b480-4fde-9f3c-00a818d8623a")
+			(uuid "054efe91-72c3-4c88-9622-2480875f98ba")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -12758,7 +12766,7 @@
 			(net 11 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dc489bbf-b480-4fde-9f3c-00a818d8623a")
+			(uuid "fdff3835-094c-4f0e-ac78-ec97d916ba41")
 		)
 		(embedded_fonts no)
 	)
@@ -13022,7 +13030,7 @@
 			(net 20 "row3*")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "9ebb233c-31ff-464b-829c-5c126ad5549f")
+			(uuid "6148d4e0-4a5e-436d-984f-6d142a8b0a0d")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -13040,7 +13048,7 @@
 			(net 22 "Net-(D17-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "eab88156-89f6-4536-9c28-93c5d17d57ef")
+			(uuid "2ded1e94-d535-411b-80f9-5506b19189b8")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -13578,7 +13586,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "21feb3ac-d054-4f78-bf56-a48bfd6af956")
+			(uuid "c35e9312-5338-43e0-8d6b-31f793e59830")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -13587,7 +13595,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "21feb3ac-d054-4f78-bf56-a48bfd6af956")
+			(uuid "13297835-86a4-4ebc-b0a8-89278a9d8e5a")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -13596,7 +13604,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "21feb3ac-d054-4f78-bf56-a48bfd6af956")
+			(uuid "45712769-bf9f-4ac9-9ba7-5098bf178d80")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -13614,7 +13622,7 @@
 			(net 3 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "796feef4-d41f-4935-943a-c7653da9e95f")
+			(uuid "5cbd6511-8cb4-4146-8b38-cdfdbebfe972")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -13623,7 +13631,7 @@
 			(net 3 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "796feef4-d41f-4935-943a-c7653da9e95f")
+			(uuid "1b8acd82-8b26-4718-82fb-51d6fbc5a50a")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -13632,7 +13640,7 @@
 			(net 3 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "796feef4-d41f-4935-943a-c7653da9e95f")
+			(uuid "04f0280f-cb6f-4ad2-a6ae-c04420804b5c")
 		)
 		(embedded_fonts no)
 	)
@@ -13896,7 +13904,7 @@
 			(net 2 "row0")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "dd9063e4-49d6-41b5-820d-400ce4b2c202")
+			(uuid "a288be59-ea25-4d65-8bf7-6811cf839b98")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -13914,7 +13922,7 @@
 			(net 3 "Net-(D2-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "9bb21ac6-8bb3-4cd1-913c-4ec89e0a3095")
+			(uuid "32e5a3a4-9a34-4b27-93fd-2d97401a1db2")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -14452,7 +14460,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "aab84e0b-3e42-4e62-9e42-5075f90ce477")
+			(uuid "8a6fef71-3666-4dbb-a611-0a9b14d02db3")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -14461,7 +14469,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "aab84e0b-3e42-4e62-9e42-5075f90ce477")
+			(uuid "68994ad2-beda-49d8-8474-5f9d678f231f")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -14470,7 +14478,7 @@
 			(net 24 "col3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "aab84e0b-3e42-4e62-9e42-5075f90ce477")
+			(uuid "676a9f25-58b5-4c7b-8db3-c522ea11a57b")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -14488,7 +14496,7 @@
 			(net 10 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dde0a681-3b8e-4c36-aedf-34a5c9271e77")
+			(uuid "9f1014b4-150d-44f0-9dae-120264e1e4b3")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -14497,7 +14505,7 @@
 			(net 10 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dde0a681-3b8e-4c36-aedf-34a5c9271e77")
+			(uuid "8ef9cab3-9fbc-4739-b9d6-910be9c37ad2")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -14506,7 +14514,7 @@
 			(net 10 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dde0a681-3b8e-4c36-aedf-34a5c9271e77")
+			(uuid "3ab8d61e-a18e-48c5-9b0d-fae7d95acab0")
 		)
 		(embedded_fonts no)
 	)
@@ -14770,7 +14778,7 @@
 			(net 6 "row1")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "97c50fad-ac00-49f3-82d6-654bdbc79ce4")
+			(uuid "56008ac8-e0d7-4519-9649-d5b7e9912470")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -14788,7 +14796,7 @@
 			(net 11 "Net-(D9-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "e2e3d630-9775-451a-bf78-3915c593408c")
+			(uuid "3fa9343f-812e-4ca2-9b1b-c0119437d951")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -15063,7 +15071,7 @@
 			(net 12 "row2")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "822151ef-ba72-49c4-a3e4-0c4f562198d5")
+			(uuid "d141d58f-02df-42f0-a397-cf3aae082e91")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -15081,7 +15089,7 @@
 			(net 16 "Net-(D13-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "18b478bf-cb39-4094-bb1d-2ae926343b3e")
+			(uuid "803bbbf0-88c7-4c75-b80c-191dd8986408")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -15356,7 +15364,7 @@
 			(net 18 "row3")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "11d48ec0-5313-4ab5-885f-abe37f07dc32")
+			(uuid "61380cbc-9d4e-44be-8c00-de5c1feb5572")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -15374,7 +15382,7 @@
 			(net 19 "Net-(D15-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "30555f9d-2cd1-4ddd-bc42-4a17c84cb1ba")
+			(uuid "2802a84b-5cf9-4691-911c-b88843d97668")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -15649,7 +15657,7 @@
 			(net 12 "row2")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "28ef35b7-0822-40dd-96a3-1d473a7eda61")
+			(uuid "95d084c3-8349-45f8-b943-61c05b43f8a2")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -15667,7 +15675,7 @@
 			(net 17 "Net-(D14-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "7b75fddd-5f24-4a3e-86c1-27e52a05b431")
+			(uuid "23f4ce1b-80c5-46b9-b537-d5205d268a77")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -16205,7 +16213,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cdbba428-6119-4bb9-9e87-cac28cb214fc")
+			(uuid "ca53e45d-a5ed-470c-a929-675e196a9d8b")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -16214,7 +16222,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cdbba428-6119-4bb9-9e87-cac28cb214fc")
+			(uuid "058c8a16-a730-4d4f-b8af-13a359e91b64")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -16223,7 +16231,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cdbba428-6119-4bb9-9e87-cac28cb214fc")
+			(uuid "e3acc11a-181b-40a1-a61d-7914a6747c3b")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -16241,7 +16249,7 @@
 			(net 15 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "aeabbf73-6de3-41dd-8c87-9478cc361d68")
+			(uuid "6010aa4e-656b-4770-875f-c9290ec9b15b")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -16250,7 +16258,7 @@
 			(net 15 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "aeabbf73-6de3-41dd-8c87-9478cc361d68")
+			(uuid "62230e0e-6eb7-450b-a6df-4a3513c3af70")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -16259,7 +16267,7 @@
 			(net 15 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "aeabbf73-6de3-41dd-8c87-9478cc361d68")
+			(uuid "2fa25ab3-bbf3-46ec-b3d6-b366f10e3ae3")
 		)
 		(embedded_fonts no)
 	)
@@ -16652,7 +16660,7 @@
 			(net 6 "row1")
 			(pinfunction "K")
 			(pintype "passive")
-			(uuid "f06562db-d48c-46b3-82d9-1f2209a6c5e8")
+			(uuid "9fd73ecd-654a-4215-b4c8-f1e1064ea868")
 		)
 		(pad "2" smd rect
 			(at 1.775 0)
@@ -16670,7 +16678,7 @@
 			(net 8 "Net-(D6-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "ab3eeeae-d6b1-4278-8941-edeafc558bf1")
+			(uuid "ca03d6c8-b85d-4c8f-b012-40f054de4275")
 		)
 		(embedded_fonts no)
 		(model "Diodes_SMD.3dshapes/SMB_Handsoldering.wrl"
@@ -17208,7 +17216,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8359b7d9-1773-4737-952d-3d7874a27a04")
+			(uuid "4eb4f95a-ec7a-4441-82f9-0d75b7899e56")
 		)
 		(pad "1" smd rect
 			(at -5.6 -5.08 180)
@@ -17217,7 +17225,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8359b7d9-1773-4737-952d-3d7874a27a04")
+			(uuid "d35f4f84-8f83-4f67-9386-bfdc27268f54")
 		)
 		(pad "1" smd rect
 			(at 8.1 3.7 180)
@@ -17226,7 +17234,7 @@
 			(net 33 "col2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8359b7d9-1773-4737-952d-3d7874a27a04")
+			(uuid "be59bb4b-e61a-4ee2-b4b0-a9d55501c455")
 		)
 		(pad "2" smd rect
 			(at -2.8 5.9 180)
@@ -17244,7 +17252,7 @@
 			(net 9 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7d6d1a7f-8cf9-440f-815f-305c80f3fcd3")
+			(uuid "160bbc98-5603-471a-89fa-98241a36c53a")
 		)
 		(pad "2" smd rect
 			(at 5.6 -5.08 180)
@@ -17253,7 +17261,7 @@
 			(net 9 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7d6d1a7f-8cf9-440f-815f-305c80f3fcd3")
+			(uuid "cf331507-0b7d-404c-a66b-70e2d719dbf6")
 		)
 		(pad "2" smd rect
 			(at 6.9 -2.54 180)
@@ -17262,7 +17270,7 @@
 			(net 9 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7d6d1a7f-8cf9-440f-815f-305c80f3fcd3")
+			(uuid "885a2c6f-aec7-4748-8245-70d1986c0182")
 		)
 		(embedded_fonts no)
 	)
