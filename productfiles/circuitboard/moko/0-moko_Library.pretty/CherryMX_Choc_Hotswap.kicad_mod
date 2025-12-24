@@ -386,7 +386,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Dwgs.User")
 		(uuid "69acd2db-d22b-4530-ba84-6126a67e3994")
 	)
 	(fp_line
@@ -396,7 +396,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Dwgs.User")
 		(uuid "80a57794-52dd-4a39-9555-17e3852b6249")
 	)
 	(fp_line
@@ -406,7 +406,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Dwgs.User")
 		(uuid "708d8d56-0b2f-4fdb-9861-01fff30b2e07")
 	)
 	(fp_line
@@ -416,7 +416,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Dwgs.User")
 		(uuid "e4a56830-eb9e-4a98-b273-8054bf77da73")
 	)
 	(pad "" np_thru_hole circle

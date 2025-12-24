@@ -2939,7 +2939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:ProMicro_v2"
+		(property "Footprint" "0-moko_Library:ProMicro_rev_2"
 			(at 55.626 68.834 0)
 			(effects
 				(font
@@ -3595,7 +3595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 195.58 76.2 0)
 			(effects
 				(font
@@ -3663,7 +3663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 104.14 96.52 0)
 			(effects
 				(font
@@ -4039,7 +4039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:ResetSW_Anled_MJP1117"
+		(property "Footprint" "0-moko_Library:ResetSW"
 			(at 55.88 102.87 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 172.72 55.88 0)
 			(effects
 				(font
@@ -4681,7 +4681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 195.58 35.56 0)
 			(effects
 				(font
@@ -4837,7 +4837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 127 76.2 0)
 			(effects
 				(font
@@ -4905,7 +4905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 149.86 55.88 0)
 			(effects
 				(font
@@ -5149,7 +5149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 195.58 55.88 0)
 			(effects
 				(font
@@ -5634,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -5702,7 +5702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 127 55.88 0)
 			(effects
 				(font
@@ -6110,7 +6110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 104.14 76.2 0)
 			(effects
 				(font
@@ -6244,7 +6244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 149.86 35.56 0)
 			(effects
 				(font
@@ -6312,7 +6312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 148.59 165.1 0)
 			(effects
 				(font
@@ -6380,7 +6380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 104.14 55.88 0)
 			(effects
 				(font
@@ -6448,7 +6448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 127 35.56 0)
 			(effects
 				(font
@@ -6516,7 +6516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 149.86 76.2 0)
 			(effects
 				(font
@@ -6672,7 +6672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 125.73 165.1 0)
 			(effects
 				(font
@@ -6740,7 +6740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0-moko_Library:CherryMX_Choc_Hotswap"
+		(property "Footprint" "0-moko_Library:CherryMX_Hotswap"
 			(at 172.72 35.56 0)
 			(effects
 				(font
